@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "852049745533",
+    "project_id": "lab7-70ad3",
+    "storage_bucket": "lab7-70ad3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852049745533:android:da5738c0e20fc0ad490314",
+        "android_client_info": {
+          "package_name": "com.example.lab7_iot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuzMYBpWWC81lOy2sUC3ifFk9XHNwF2Us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
